@@ -1,5 +1,4 @@
 const {Button, TextView, contentView} = require('tabris');
-const {Media} = require('');
 
 contentView.append(
   Button({
