@@ -8,5 +8,4 @@
     WaffleCodez
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
-  <plugin name="cordova-plugin-media" spec="^2.3.0" />
 </widget>
